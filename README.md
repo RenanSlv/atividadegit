@@ -1,4 +1,4 @@
-# Principais comando do Git
+# Principais comandos dos Git
 
 - git commit
 - git add
