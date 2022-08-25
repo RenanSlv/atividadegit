@@ -1,15 +1,15 @@
 # Principais comandos dos Git
 
-- git commit
-- git add
-- git init
-- git clone
-- git status
-- git branch
-- git merge
-- git checkout
-- git revert
-- git pull
-- git config
-- git reset
-- git push
+- git commit (muda de um ambiente local para o repositório no git, permitindo ainda a inserção de uma mensagem descritiva)
+- git add (prepara arquivos para o próximo “commit”, ou seja, para subir para o repositório na web)
+- git init (começa um repositório. Isto é, o que ele faz é transformar uma pasta com códigos no seu HD em uma pasta monitorada pelo git)
+- git clone (clona um código de um repositório para a sua máquina)
+- git status (mostra quais arquivos foram alterados e faz uma comparação com relação à ramificação principal)
+- git branch (cria novas branches)
+- git merge (unifica algum histórico bifurcado. o Git merge permite que você pegue as linhas criadas a partir do Git branch e faça uma integração para a ramificação principal)
+- git checkout (muda de branch)
+- git revert (permite desfazer algum commit e recuperar uma versão saudável)
+- git pull (traz para a sua máquina todas as mudanças que foram realizadas na plataforma)
+- git config (vincula o trabalho no repositório com sua conta)
+- git reset (volta ao último estado saudável do seu sistema)
+- git push (serve para subir as alterações de uma ramificação para um certo repositório)
