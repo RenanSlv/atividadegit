@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 alteração feita na branch qualidade
-=======
 alteração feita na branch suporte
->>>>>>> suporte
