@@ -13,3 +13,4 @@
 - git config
 - git reset
 - git push
+- git config
